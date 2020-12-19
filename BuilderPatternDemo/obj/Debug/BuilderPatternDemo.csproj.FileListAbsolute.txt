@@ -1,0 +1,7 @@
+E:\Learning\C#\Design Pattern\Builder_Pattern\BuilderPatternDemo\BuilderPatternDemo\obj\Debug\BuilderPatternDemo.csprojAssemblyReference.cache
+E:\Learning\C#\Design Pattern\Builder_Pattern\BuilderPatternDemo\BuilderPatternDemo\obj\Debug\BuilderPatternDemo.csproj.CoreCompileInputs.cache
+E:\Learning\C#\Design Pattern\Builder_Pattern\BuilderPatternDemo\BuilderPatternDemo\bin\Debug\BuilderPatternDemo.exe.config
+E:\Learning\C#\Design Pattern\Builder_Pattern\BuilderPatternDemo\BuilderPatternDemo\bin\Debug\BuilderPatternDemo.exe
+E:\Learning\C#\Design Pattern\Builder_Pattern\BuilderPatternDemo\BuilderPatternDemo\bin\Debug\BuilderPatternDemo.pdb
+E:\Learning\C#\Design Pattern\Builder_Pattern\BuilderPatternDemo\BuilderPatternDemo\obj\Debug\BuilderPatternDemo.exe
+E:\Learning\C#\Design Pattern\Builder_Pattern\BuilderPatternDemo\BuilderPatternDemo\obj\Debug\BuilderPatternDemo.pdb
